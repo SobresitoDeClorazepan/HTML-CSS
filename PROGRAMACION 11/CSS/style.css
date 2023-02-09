@@ -1,0 +1,43 @@
+body {
+    background-color: aquamarine;
+    width: 100%;
+}
+h1{
+    color: blueviolet;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h2{
+    color: brown;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color: rosybrown;
+    font-size: large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+p{
+    color: beige;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+div {
+    float: left;
+    width: 32%;
+    height: 100px;
+    background-color:rgb(7, 230, 156);
+    margin: 1.3px;
+    padding: 3.2px;
+}
+#left{
+    float: left;
+}
+#rigth{
+    float: right;
+}
